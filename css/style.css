@@ -1,0 +1,114 @@
+nav ul a, nav .brand-logo {
+	max-height: 64px;
+  color: #444;
+}
+
+@media screen and (max-width : 620px) {
+	.img-res {
+		max-height: 50px;
+	}
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.icon-vec {
+	margin: -15px 0 0 0;
+	padding-bottom: 0;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.items {
+	margin-top: -10px;
+}
+
+.chair {
+	margin-top: 19px;
+}
+
+.sofa {
+	margin-top: 24px;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+.arrowDown {
+  color: black;
+}
+
+.content-product {
+  height: 630px;
+  margin-bottom: 50px;
+}
+
+.made:hover {
+  text-decoration: underline;
+}
+
+.slider {
+  width: 100%;
+}
+
+/*.text-slider {
+  color: #333;
+  margin-top: 45px;
+}*/
+
+.vector {
+  transition: all .7s ease-in-out;
+}
+
+.vector:hover {
+  transform: scale(1.2,1.2);
+  -webkit-transform: scale(1.2,1.2);
+  -ms-transform: scale(1.2,1.2);
+  transition: transform 0.6s;
+  -webkit-transition: -webkit-transform 0.6s;
+}
+
+.title-gallery {
+  margin-top: 70px;
+}
+
+.card-edit {
+  width: 31%;
+  height: 31%;
+  display: inline-block;
+  margin: 2% 1% 5% 1%;
+}
+
+.img-card {
+  padding: 10px;
+}
