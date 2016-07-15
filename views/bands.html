@@ -10,17 +10,6 @@
   </div>
 
 
-<!-- 
-  <div class="row">
-    <a class="waves-effect waves-light btn-large" ng-click="myFilter={decade:''}">ALL DECADES</a>
-    <a class="waves-effect waves-light btn-large" ng-click="myFilter={decade: '1960'}">60's</a>
-    <a class="waves-effect waves-light btn-large" ng-click="myFilter={decade: '1970'}">70's</a>
-    <a class="waves-effect waves-light btn-large" ng-click="myFilter={decade: '1980'}">80's</a>
-    <a class="waves-effect waves-light btn-large" ng-click="myFilter={decade: '1990'}">90's</a>
-
-  </div> -->
-
-
   <div class="row">
     <div ng-repeat="band in bands | filter: {name: nameFilter}" class="card-edit card">
 
