@@ -5,13 +5,19 @@
 
   <div class="row">
         <div class="input-field col s12">
+        
           <input placeholder="" id="element"  type="search" ng-model="elementFilter" class="validate"required>
           <label for="element_name">Search element</label>
+          </div>
   </div>
 
   <div class="row">
-    <div ng-repeat="element in elements | filter: {name: elementFilter}" class="button">
-    <a class="waves-effect waves-light btn">{{element.small}}</a>
+  <div class="col s1">
+    <div ng-repeat="element in elements | filter: {name: elementFilter}" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+   
   </div>
 
 </section>

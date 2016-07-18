@@ -26,13 +26,6 @@ p {
 	margin-top: -10px;
 }
 
-.chair {
-	margin-top: 19px;
-}
-
-.sofa {
-	margin-top: 24px;
-}
 
 .parallax-container {
   min-height: 380px;
@@ -111,4 +104,80 @@ footer.page-footer {
 
 .img-card {
   padding: 10px;
+}
+
+#element {
+  text-align: center;
+}
+
+.position0 {
+  background: red;
+}
+
+.position1 {
+    background: orange;
+}
+
+.position2 {
+    background: yellow;
+}
+
+.position3 {
+  background: #DAFF33;
+}
+
+.position4 {
+  background: #9FFF33;
+}
+
+.position5 {
+  background: #26AF1B;
+}
+
+.position6 {
+  background: #0DED7A;
+}
+
+.position7 {
+  background: #1FF3CD;
+}
+
+.position8 {
+  background: #1FBCF3;
+}
+
+.position9 {
+  background: #1F86F3;
+}
+
+.position10 {
+  background: #1F4CF3;
+}
+
+.position11 {
+  background: #0C0672;
+}
+
+.position12 {
+  background: #805BF1;
+}
+
+.position13 {
+  background: #733ABC;
+}
+
+.position14 {
+  background: #8F3ABC;
+}
+
+.position15 {
+  background: #D312F1;
+}
+
+.position16 {
+  background: #F112DD;
+}
+
+.position17 {
+  background: #F112A0;
 }

@@ -5,7 +5,7 @@
 
   <div class="row">
         <div class="input-field col s12">
-          <input placeholder="" id="compound"  type="search" ng-model="elementFilter" class="validate"required>
+          <input placeholder="" id="compound"  type="search" ng-model="compoundFilter" class="validate"required>
           <label for="compound_name">Search compound</label>
   </div>
 
@@ -19,8 +19,8 @@
         <div><a href="#/compound/name/{{compound.name}}">View all properties</a></div>
       </div>
       <div class="card-image waves-effect waves-block waves-light">
-        <img class="img-card activator" ng-src="{{compound.img}}" alt="{{compound.img}}">
-        <span ng-src="{{compound.name}}" alt="{{compound.name}}">{{compound.name}}</span>
+        <img class="img-card activator" ng-src="{{compound.img}}" alt="{{compound.img}}" height="180 px">
+        <span ng-src="{{compound.name}}" alt="{{compound.name}}">{{compound.formula}}</span>
       </div>
 
       <div class="card-reveal">

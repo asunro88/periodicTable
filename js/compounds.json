@@ -3,14 +3,14 @@
 		
 					"img": "img/h2o.png",
 					"name": "Water",
-					"formula": "H2O",
+					"formula": "H₂O",
 					"molar": 18
 				},
 
 				{
 					"img": "img/co2.png",
 					"name": "Carbon dioxide",
-					"formula": "CO2",
+					"formula": "CO₂",
 					"molar": 44
 			
 		}
