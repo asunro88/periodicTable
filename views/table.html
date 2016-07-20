@@ -6,19 +6,133 @@
   <div class="row">
         <div class="input-field col s12">
         
-          <input placeholder="" id="element"  type="search" ng-model="elementFilter" class="validate"required>
-          <label for="element_name">Search element</label>
+          <input placeholder="" id="searchBox"  type="search" ng-model="elementFilter" class="validate"required>
+          <label for="element_small">Search element</label>
           </div>
   </div>
 
   <div class="row">
-  <div class="col s1">
+   <!-- <div class="col s1">
     <div ng-repeat="element in elements | filter: {name: elementFilter}" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>  -->
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '0'} :true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '1'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '2'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '3'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '4'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '5'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '6'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+<div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '7'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '8'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '9'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '10'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+<div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '11'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '12'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+<div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '13'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '14'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+<div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '15'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '16'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '17'}:true" id="element" class="position{{element.position}}">
+    <a class="waves-effect waves-teal">{{element.small}}</a>
+    </div>
+  </div>
+
+  <div class="col s0.5">
+    <div ng-repeat="element in elements | filter: {position: '18'}:true" id="element" class="position{{element.position}}">
     <a class="waves-effect waves-teal">{{element.small}}</a>
     </div>
   </div>
    
-  </div>
+  </div><!--  cierre row -->
 
 </section>
 

@@ -13,6 +13,11 @@ app.config(['$routeProvider', function ($routeProvider) {
 			controller: 'tableController'
 		})
 
+		.when('/tabla', {
+			templateUrl: 'views/tabla.html',
+			controller: 'tablaController'
+		})
+
 		.when('/elements', {
 			templateUrl: 'views/elements.html',
 			controller: 'elementsController'
@@ -21,11 +26,6 @@ app.config(['$routeProvider', function ($routeProvider) {
 		.when("/compounds", {
 			templateUrl: "views/compounds.html",
 			controller: "compController"
-		})
-
-		.when('/bands/name/:name', {
-			templateUrl: 'views/bandsName.html',
-			controller: 'nameController'
 		})
 
 		.otherwise({
@@ -44,6 +44,14 @@ app.controller('tableController',['$scope','$http', function($scope,$http){
         $scope.elements = data;
     });
 }]);
+
+//Controlador para tabla
+app.controller('tablaController',['$scope','$http', function($scope,$http){ 
+    $http.get("js/elements.json").success(function(data) {
+        $scope.elements = data;
+    });
+}]);
+
 
 //Controlador para elementos
 app.controller('elementsController',['$scope','$http', function($scope,$http){ 

@@ -2,7 +2,7 @@
 		{
 		
 					"group": "",
-					"position": 0,
+					"position": "0",
 					"name": "Hydrogen",
 					"number": 1,
 					"small": "H",
@@ -13,7 +13,7 @@
 				},
 				{
 					"group": "Element Noble p",
-					"position": 17,
+					"position": "17",
 					"name": "Helium",
 					"number": 2,
 					"small": "He",
@@ -24,10 +24,438 @@
 				
 			
 		},
+
+				{
+					"group": "Element Alkali s",
+					"position": "2",
+					"name": "",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+
+				{
+					"group": "Element Alkali s",
+					"position": "2",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+
+				{
+					"group": "Element Alkali s",
+					"position": "2",
+					"name": "",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+
+				{
+					"group": "Element Alkali s",
+					"position": "3",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "3",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "3",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+
+				{
+					"group": "Element Alkali s",
+					"position": "4",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+
+				{
+					"group": "Element Alkali s",
+					"position": "4",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "4",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "5",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "5",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "5",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+
+				{
+					"group": "Element Alkali s",
+					"position": "6",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "6",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "6",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "7",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "7",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "7",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "8",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "8",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "8",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "9",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "9",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "9",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+
+				{
+					"group": "Element Alkali s",
+					"position": "10",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "10",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "10",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "11",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "11",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "11",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "12",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "13",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "14",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "15",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
+				{
+					"group": "Element Alkali s",
+					"position": "16",
+					"name": "Lithium",
+					"number": 3,
+					"small": "",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
 		
 				{
 					"group": "Element Alkali s",
-					"position": 0,
+					"position": "0",
 					"name": "Lithium",
 					"number": 3,
 					"small": "Li",
@@ -39,7 +467,19 @@
 				},
 				{
 					"group": "Element Alkaline s",
-					"position": 1,
+					"position": "1",
+					"name": "Beryllium",
+					"number": 4,
+					"small": "",
+					"molar": 9.012182,
+					"electrons": [
+						2,
+						2
+					]
+				},
+				{
+					"group": "Element Alkaline s",
+					"position": "1",
 					"name": "Beryllium",
 					"number": 4,
 					"small": "Be",
@@ -51,7 +491,7 @@
 				},
 				{
 					"group": "Element Metalloid Boron p",
-					"position": 12,
+					"position": "12",
 					"name": "Boron",
 					"number": 5,
 					"small": "B",
@@ -63,7 +503,7 @@
 				},
 				{
 					"group": "Element Nonmetal Carbon p",
-					"position": 13,
+					"position": "13",
 					"name": "Carbon",
 					"number": 6,
 					"small": "C",
@@ -75,7 +515,7 @@
 				},
 				{
 					"group": "Element Nonmetal Pnictogen p",
-					"position": 14,
+					"position": "14",
 					"name": "Nitrogen",
 					"number": 7,
 					"small": "N",
@@ -87,7 +527,7 @@
 				},
 				{
 					"group": "Element Nonmetal Chalcogen p",
-					"position": 15,
+					"position": "15",
 					"name": "Oxygen",
 					"number": 8,
 					"small": "O",
@@ -99,7 +539,7 @@
 				},
 				{
 					"group": "Element Halogen p",
-					"position": 16,
+					"position": "16",
 					"name": "Fluorine",
 					"number": 9,
 					"small": "F",
@@ -111,7 +551,7 @@
 				},
 				{
 					"group": "Element Noble p",
-					"position": 17,
+					"position": "17",
 					"name": "Neon",
 					"number": 10,
 					"small": "Ne",
@@ -125,7 +565,7 @@
 		
 				{
 					"group": "Element Alkali s",
-					"position": 0,
+					"position": "0",
 					"name": "Sodium",
 					"number": 11,
 					"small": "Na",
@@ -138,7 +578,7 @@
 				},
 				{
 					"group": "Element Alkaline s",
-					"position": 1,
+					"position": "1",
 					"name": "Magnesium",
 					"number": 12,
 					"small": "Mg",
@@ -151,7 +591,7 @@
 				},
 				{
 					"group": "Element Poor Boron p",
-					"position": 12,
+					"position": "12",
 					"name": "Aluminium",
 					"number": 13,
 					"small": "Al",
@@ -164,7 +604,7 @@
 				},
 				{
 					"group": "Element Metalloid Carbon p",
-					"position": 13,
+					"position": "13",
 					"name": "Silicon",
 					"number": 14,
 					"small": "Si",
@@ -177,7 +617,7 @@
 				},
 				{
 					"group": "Element Nonmetal Pnictogen p",
-					"position": 14,
+					"position": "14",
 					"name": "Phosphorus",
 					"number": 15,
 					"small": "P",
@@ -190,7 +630,7 @@
 				},
 				{
 					"group": "Element Nonmetal Chalcogen p",
-					"position": 15,
+					"position": "15",
 					"name": "Sulfur",
 					"number": 16,
 					"small": "S",
@@ -203,7 +643,7 @@
 				},
 				{
 					"group": "Element Halogen p",
-					"position": 16,
+					"position": "16",
 					"name": "Chlorine",
 					"number": 17,
 					"small": "Cl",
@@ -216,7 +656,7 @@
 				},
 				{
 					"group": "Element Noble p",
-					"position": 17,
+					"position": "17",
 					"name": "Argon",
 					"number": 18,
 					"small": "Ar",
@@ -231,7 +671,7 @@
 		
 				{
 					"group": "Element Alkali s",
-					"position": 0,
+					"position": "0",
 					"name": "Potassium",
 					"number": 19,
 					"small": "K",
@@ -245,7 +685,7 @@
 				},
 				{
 					"group": "Element Alkaline s",
-					"position": 1,
+					"position": "1",
 					"name": "Calcium",
 					"number": 20,
 					"small": "Ca",
@@ -259,7 +699,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 2,
+					"position": "2",
 					"name": "Scandium",
 					"number": 21,
 					"small": "Sc",
@@ -273,7 +713,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 3,
+					"position": "3",
 					"name": "Titanium",
 					"number": 22,
 					"small": "Ti",
@@ -287,7 +727,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 4,
+					"position": "4",
 					"name": "Vanadium",
 					"number": 23,
 					"small": "V",
@@ -301,7 +741,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 5,
+					"position": "5",
 					"name": "Chromium",
 					"number": 24,
 					"small": "Cr",
@@ -315,7 +755,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 6,
+					"position": "6",
 					"name": "Manganese",
 					"number": 25,
 					"small": "Mn",
@@ -329,7 +769,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 7,
+					"position": "7",
 					"name": "Iron",
 					"number": 26,
 					"small": "Fe",
@@ -343,7 +783,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 8,
+					"position": "8",
 					"name": "Cobalt",
 					"number": 27,
 					"small": "Co",
@@ -357,7 +797,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 9,
+					"position": "9",
 					"name": "Nickel",
 					"number": 28,
 					"small": "Ni",
@@ -371,7 +811,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 10,
+					"position": "10",
 					"name": "Copper",
 					"number": 29,
 					"small": "Cu",
@@ -385,7 +825,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 11,
+					"position": "11",
 					"name": "Zinc",
 					"number": 30,
 					"small": "Zn",
@@ -399,7 +839,7 @@
 				},
 				{
 					"group": "Element Poor Boron p",
-					"position": 12,
+					"position": "12",
 					"name": "Gallium",
 					"number": 31,
 					"small": "Ga",
@@ -413,7 +853,7 @@
 				},
 				{
 					"group": "Element Metalloid Carbon p",
-					"position": 13,
+					"position": "13",
 					"name": "Germanium",
 					"number": 32,
 					"small": "Ge",
@@ -427,7 +867,7 @@
 				},
 				{
 					"group": "Element Metalloid Pnictogen p",
-					"position": 14,
+					"position": "14",
 					"name": "Arsenic",
 					"number": 33,
 					"small": "As",
@@ -441,7 +881,7 @@
 				},
 				{
 					"group": "Element Nonmetal Chalcogen p",
-					"position": 15,
+					"position": "15",
 					"name": "Selenium",
 					"number": 34,
 					"small": "Se",
@@ -455,7 +895,7 @@
 				},
 				{
 					"group": "Element Halogen p",
-					"position": 16,
+					"position": "16",
 					"name": "Bromine",
 					"number": 35,
 					"small": "Br",
@@ -469,7 +909,7 @@
 				},
 				{
 					"group": "Element Noble p",
-					"position": 17,
+					"position": "17",
 					"name": "Krypton",
 					"number": 36,
 					"small": "Kr",
@@ -485,7 +925,7 @@
 		
 				{
 					"group": "Element Alkali s",
-					"position": 0,
+					"position": "0",
 					"name": "Rubidium",
 					"number": 37,
 					"small": "Rb",
@@ -500,7 +940,7 @@
 				},
 				{
 					"group": "Element Alkaline s",
-					"position": 1,
+					"position": "1",
 					"name": "Strontium",
 					"number": 38,
 					"small": "Sr",
@@ -515,7 +955,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 2,
+					"position": "2",
 					"name": "Yttrium",
 					"number": 39,
 					"small": "Y",
@@ -530,7 +970,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 3,
+					"position": "3",
 					"name": "Zirconium",
 					"number": 40,
 					"small": "Zr",
@@ -545,7 +985,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 4,
+					"position": "4",
 					"name": "Niobium",
 					"number": 41,
 					"small": "Nb",
@@ -560,7 +1000,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 5,
+					"position": "5",
 					"name": "Molybdenum",
 					"number": 42,
 					"small": "Mo",
@@ -575,7 +1015,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 6,
+					"position": "6",
 					"name": "Technetium",
 					"number": 43,
 					"small": "Tc",
@@ -590,7 +1030,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 7,
+					"position": "7",
 					"name": "Ruthenium",
 					"number": 44,
 					"small": "Ru",
@@ -605,7 +1045,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 8,
+					"position": "8",
 					"name": "Rhodium",
 					"number": 45,
 					"small": "Rh",
@@ -620,7 +1060,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 9,
+					"position": "9",
 					"name": "Palladium",
 					"number": 46,
 					"small": "Pd",
@@ -634,7 +1074,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 10,
+					"position": "10",
 					"name": "Silver",
 					"number": 47,
 					"small": "Ag",
@@ -649,7 +1089,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 11,
+					"position": "11",
 					"name": "Cadmium",
 					"number": 48,
 					"small": "Cd",
@@ -664,7 +1104,7 @@
 				},
 				{
 					"group": "Element Poor Boron p",
-					"position": 12,
+					"position": "12",
 					"name": "Indium",
 					"number": 49,
 					"small": "In",
@@ -679,7 +1119,7 @@
 				},
 				{
 					"group": "Element Poor Carbon p",
-					"position": 13,
+					"position": "13",
 					"name": "Tin",
 					"number": 50,
 					"small": "Sn",
@@ -694,7 +1134,7 @@
 				},
 				{
 					"group": "Element Metalloid Pnictogen p",
-					"position": 14,
+					"position": "14",
 					"name": "Antimony",
 					"number": 51,
 					"small": "Sb",
@@ -709,7 +1149,7 @@
 				},
 				{
 					"group": "Element Metalloid Chalcogen p",
-					"position": 15,
+					"position": "15",
 					"name": "Tellurium",
 					"number": 52,
 					"small": "Te",
@@ -724,7 +1164,7 @@
 				},
 				{
 					"group": "Element Halogen p",
-					"position": 16,
+					"position": "16",
 					"name": "Iodine",
 					"number": 53,
 					"small": "I",
@@ -739,7 +1179,7 @@
 				},
 				{
 					"group": "Element Noble p",
-					"position": 17,
+					"position": "17",
 					"name": "Xenon",
 					"number": 54,
 					"small": "Xe",
@@ -756,7 +1196,7 @@
 		
 				{
 					"group": "Element Alkali s",
-					"position": 0,
+					"position": "0",
 					"name": "Caesium",
 					"number": 55,
 					"small": "Cs",
@@ -772,7 +1212,7 @@
 				},
 				{
 					"group": "Element Alkaline s",
-					"position": 1,
+					"position": "1",
 					"name": "Barium",
 					"number": 56,
 					"small": "Ba",
@@ -786,16 +1226,10 @@
 						2
 					]
 				},
-				{
-					"group": "Lanthanoid InnerBorder BlueLeft BlueTop BlueRight",
-					"position": 2,
-					"name": "",
-					"number": "",
-					"small": "57-71"
-				},
+				
 				{
 					"group": "Element Transition d",
-					"position": 3,
+					"position": "3",
 					"name": "Hafnium",
 					"number": 72,
 					"small": "Hf",
@@ -811,7 +1245,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 4,
+					"position": "4",
 					"name": "Tantalum",
 					"number": 73,
 					"small": "Ta",
@@ -827,7 +1261,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 5,
+					"position": "5",
 					"name": "Tungsten",
 					"number": 74,
 					"small": "W",
@@ -843,7 +1277,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 6,
+					"position": "6",
 					"name": "Rhenium",
 					"number": 75,
 					"small": "Re",
@@ -859,7 +1293,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 7,
+					"position": "7",
 					"name": "Osmium",
 					"number": 76,
 					"small": "Os",
@@ -875,7 +1309,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 8,
+					"position": "8",
 					"name": "Iridium",
 					"number": 77,
 					"small": "Ir",
@@ -891,7 +1325,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 9,
+					"position": "9",
 					"name": "Platinum",
 					"number": 78,
 					"small": "Pt",
@@ -907,7 +1341,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 10,
+					"position": "10",
 					"name": "Gold",
 					"number": 79,
 					"small": "Au",
@@ -923,7 +1357,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 11,
+					"position": "11",
 					"name": "Mercury",
 					"number": 80,
 					"small": "Hg",
@@ -939,7 +1373,7 @@
 				},
 				{
 					"group": "Element Poor Boron p",
-					"position": 12,
+					"position": "12",
 					"name": "Thallium",
 					"number": 81,
 					"small": "Tl",
@@ -955,7 +1389,7 @@
 				},
 				{
 					"group": "Element Poor Carbon p",
-					"position": 13,
+					"position": "13",
 					"name": "Lead",
 					"number": 82,
 					"small": "Pb",
@@ -971,7 +1405,7 @@
 				},
 				{
 					"group": "Element Poor Pnictogen p",
-					"position": 14,
+					"position": "14",
 					"name": "Bismuth",
 					"number": 83,
 					"small": "Bi",
@@ -987,7 +1421,7 @@
 				},
 				{
 					"group": "Element Metalloid Chalcogen p",
-					"position": 15,
+					"position": "15",
 					"name": "Polonium",
 					"number": 84,
 					"small": "Po",
@@ -1003,7 +1437,7 @@
 				},
 				{
 					"group": "Element Halogen p",
-					"position": 16,
+					"position": "16",
 					"name": "Astatine",
 					"number": 85,
 					"small": "At",
@@ -1019,7 +1453,7 @@
 				},
 				{
 					"group": "Element Noble p",
-					"position": 17,
+					"position": "17",
 					"name": "Radon",
 					"number": 86,
 					"small": "Rn",
@@ -1037,7 +1471,7 @@
 		
 				{
 					"group": "Element Alkali s",
-					"position": 0,
+					"position": "0",
 					"name": "Francium",
 					"number": 87,
 					"small": "Fr",
@@ -1054,7 +1488,7 @@
 				},
 				{
 					"group": "Element Alkaline s",
-					"position": 1,
+					"position": "1",
 					"name": "Radium",
 					"number": 88,
 					"small": "Ra",
@@ -1069,16 +1503,10 @@
 						2
 					]
 				},
-				{
-					"group": "Actinoid InnerBorder BlueLeft BlueRight",
-					"position": 2,
-					"name": "",
-					"number": "",
-					"small": "89-103"
-				},
+				
 				{
 					"group": "Element Transition d",
-					"position": 3,
+					"position": "3",
 					"name": "Rutherfordium",
 					"number": 104,
 					"small": "Rf",
@@ -1095,7 +1523,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 4,
+					"position": "4",
 					"name": "Dubnium",
 					"number": 105,
 					"small": "Db",
@@ -1112,7 +1540,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 5,
+					"position": "5",
 					"name": "Seaborgium",
 					"number": 106,
 					"small": "Sg",
@@ -1129,7 +1557,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 6,
+					"position": "6",
 					"name": "Bohrium",
 					"number": 107,
 					"small": "Bh",
@@ -1146,7 +1574,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 7,
+					"position": "7",
 					"name": "Hassium",
 					"number": 108,
 					"small": "Hs",
@@ -1163,7 +1591,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 8,
+					"position": "8",
 					"name": "Meitnerium",
 					"number": 109,
 					"small": "Mt",
@@ -1180,7 +1608,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 9,
+					"position": "9",
 					"name": "Darmstadtium",
 					"number": 110,
 					"small": "Ds",
@@ -1197,7 +1625,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 10,
+					"position": "10",
 					"name": "Roentgenium",
 					"number": 111,
 					"small": "Rg",
@@ -1214,7 +1642,7 @@
 				},
 				{
 					"group": "Element Transition d",
-					"position": 11,
+					"position": "11",
 					"name": "Copernicium",
 					"number": 112,
 					"small": "Cn",
@@ -1231,7 +1659,7 @@
 				},
 				{
 					"group": "Element Poor Boron p",
-					"position": 12,
+					"position": "12",
 					"name": "Ununtrium",
 					"number": 113,
 					"small": "Uut",
@@ -1248,7 +1676,7 @@
 				},
 				{
 					"group": "Element Poor Carbon p",
-					"position": 13,
+					"position": "13",
 					"name": "Flerovium",
 					"number": 114,
 					"small": "Fl",
@@ -1265,7 +1693,7 @@
 				},
 				{
 					"group": "Element Poor Pnictogen p",
-					"position": 14,
+					"position": "14",
 					"name": "Ununpentium",
 					"number": 115,
 					"small": "Uup",
@@ -1282,7 +1710,7 @@
 				},
 				{
 					"group": "Element Poor Chalcogen p",
-					"position": 15,
+					"position": "15",
 					"name": "Livermorium",
 					"number": 116,
 					"small": "Lv",
@@ -1299,7 +1727,7 @@
 				},
 				{
 					"group": "Element Halogen p",
-					"position": 16,
+					"position": "16",
 					"name": "Ununseptium",
 					"number": 117,
 					"small": "Uus",
@@ -1316,7 +1744,7 @@
 				},
 				{
 					"group": "Element Noble p",
-					"position": 17,
+					"position": "17",
 					"name": "Ununoctium",
 					"number": 118,
 					"small": "Uuo",
@@ -1333,7 +1761,7 @@
 				},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 2,
+			"position": "2",
 			"name": "Lanthanum",
 			"number": 57,
 			"small": "La",
@@ -1349,7 +1777,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 3,
+			"position": "3",
 			"name": "Cerium",
 			"number": 58,
 			"small": "Ce",
@@ -1365,7 +1793,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 4,
+			"position": "4",
 			"name": "Praseodymium",
 			"number": 59,
 			"small": "Pr",
@@ -1381,7 +1809,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 5,
+			"position": "5",
 			"name": "Neodymium",
 			"number": 60,
 			"small": "Nd",
@@ -1397,7 +1825,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 6,
+			"position": "6",
 			"name": "Promethium",
 			"number": 61,
 			"small": "Pm",
@@ -1413,7 +1841,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 7,
+			"position": "7",
 			"name": "Samarium",
 			"number": 62,
 			"small": "Sm",
@@ -1429,7 +1857,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 8,
+			"position": "8",
 			"name": "Europium",
 			"number": 63,
 			"small": "Eu",
@@ -1445,7 +1873,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 9,
+			"position": "9",
 			"name": "Gadolinium",
 			"number": 64,
 			"small": "Gd",
@@ -1461,7 +1889,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 10,
+			"position": "10",
 			"name": "Terbium",
 			"number": 65,
 			"small": "Tb",
@@ -1477,7 +1905,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 11,
+			"position": "11",
 			"name": "Dysprosium",
 			"number": 66,
 			"small": "Dy",
@@ -1493,7 +1921,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 12,
+			"position": "12",
 			"name": "Holmium",
 			"number": 67,
 			"small": "Ho",
@@ -1509,7 +1937,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 13,
+			"position": "13",
 			"name": "Erbium",
 			"number": 68,
 			"small": "Er",
@@ -1525,7 +1953,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 14,
+			"position": "14",
 			"name": "Thulium",
 			"number": 69,
 			"small": "Tm",
@@ -1541,7 +1969,7 @@
 		},
 		{
 			"group": "Element Lanthanoid f",
-			"position": 15,
+			"position": "15",
 			"name": "Ytterbium",
 			"number": 70,
 			"small": "Yb",
@@ -1557,7 +1985,7 @@
 		},
 		{
 			"group": "Element Lanthanoid d",
-			"position": 16,
+			"position": "16",
 			"name": "Lutetium",
 			"number": 71,
 			"small": "Lu",
@@ -1574,7 +2002,7 @@
 
 		{
 			"group": "Element Actinoid f",
-			"position": 2,
+			"position": "2",
 			"name": "Actinium",
 			"number": 89,
 			"small": "Ac",
@@ -1591,7 +2019,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 3,
+			"position": "3",
 			"name": "Thorium",
 			"number": 90,
 			"small": "Th",
@@ -1608,7 +2036,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 4,
+			"position": "4",
 			"name": "Protactinium",
 			"number": 91,
 			"small": "Pa",
@@ -1625,7 +2053,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 5,
+			"position": "5",
 			"name": "Uranium",
 			"number": 92,
 			"small": "U",
@@ -1642,7 +2070,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 6,
+			"position": "6",
 			"name": "Neptunium",
 			"number": 93,
 			"small": "Np",
@@ -1659,7 +2087,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 7,
+			"position": "7",
 			"name": "Plutonium",
 			"number": 94,
 			"small": "Pu",
@@ -1676,7 +2104,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 8,
+			"position": "8",
 			"name": "Americium",
 			"number": 95,
 			"small": "Am",
@@ -1693,7 +2121,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 9,
+			"position": "9",
 			"name": "Curium",
 			"number": 96,
 			"small": "Cm",
@@ -1710,7 +2138,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 10,
+			"position": "10",
 			"name": "Berkelium",
 			"number": 97,
 			"small": "Bk",
@@ -1727,7 +2155,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 11,
+			"position": "11",
 			"name": "Californium",
 			"number": 98,
 			"small": "Cf",
@@ -1744,7 +2172,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 12,
+			"position": "12",
 			"name": "Einsteinium",
 			"number": 99,
 			"small": "Es",
@@ -1761,7 +2189,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 13,
+			"position": "13",
 			"name": "Fermium",
 			"number": 100,
 			"small": "Fm",
@@ -1778,7 +2206,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 14,
+			"position": "14",
 			"name": "Mendelevium",
 			"number": 101,
 			"small": "Md",
@@ -1795,7 +2223,7 @@
 		},
 		{
 			"group": "Element Actinoid f",
-			"position": 15,
+			"position": "15",
 			"name": "Nobelium",
 			"number": 102,
 			"small": "No",
@@ -1812,7 +2240,7 @@
 		},
 		{
 			"group": "Element Actinoid d",
-			"position": 16,
+			"position": "16",
 			"name": "Lawrencium",
 			"number": 103,
 			"small": "Lr",
