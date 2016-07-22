@@ -1,18 +1,68 @@
  [
-		{
-		
-					"img": "img/h2o.png",
+		{		
+					"img": "img/h2onew.png",
 					"name": "Water",
 					"formula": "H₂O",
+					"small":["H", "O"],
 					"molar": 18
-				},
+		},
 
-				{
-					"img": "img/co2.png",
+		{
+					"img": "img/co2new.png",
 					"name": "Carbon dioxide",
 					"formula": "CO₂",
+					"small":["C", "O"],
 					"molar": 44
 			
+		},
+		{
+					"img": "img/li2o.png",
+					"name": "Lithium oxide",
+					"formula": "Li₂O",
+					"small":["Li", "O"],
+					"molar": 29.8
+			
+		},
+		{
+					"img": "img/na2o.png",
+					"name": "Sodium oxide",
+					"formula": "Na₂O",
+					"small":["Na", "O"],
+					"molar": 62
+			
+		},
+		{
+					"img": "img/k2o.png",
+					"name": "Potassium oxide",
+					"formula": "K₂O",
+					"small":["K", "O"],
+					"molar": 94.2
+			
+		},
+		{
+					"img": "img/rb2o.png",
+					"name": "Rubidium oxide",
+					"formula": "Rb₂O",
+					"small":["Rb", "O"],
+					"molar": 187
+			
+		},
+		{
+					"img": "img/cs2o.jpg",
+					"name": "Caesium oxide",
+					"formula": "Cs₂O",
+					"small":["Cs", "O"],
+					"molar": 281.8
+			
+		},
+		{
+					"img": "img/beo.png",
+					"name": "Beryllium oxide",
+					"formula": "BeO",
+					"small":["Be", "O"],
+					"molar": 25
+			
 		}
+
 
 ]

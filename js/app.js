@@ -68,11 +68,11 @@ app.controller('compController',['$scope','$http', function($scope,$http){
 }]);
 
 
-//Controlador para elementos por nombre
-app.controller('nameController',['$scope','$http', function($scope,$http, $routeParams){
-	$scope.name = $routeParams.name;  
-    $http.get("js/elements.json").success(function(data) {
-        $scope.bands = data;
+//Controlador para elementos por simbolo
+app.controller('smallController',['$scope','$http', function($scope,$http, $routeParams){
+	$scope.small = $routeParams.small;  
+    $http.get("js/compounds.json").success(function(data) {
+        $scope.compounds = data;
     });
 }]);
 
