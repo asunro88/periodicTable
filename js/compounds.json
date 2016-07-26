@@ -4,7 +4,11 @@
 					"name": "Water",
 					"formula": "H₂O",
 					"small":["H", "O"],
-					"molar": 18
+					"molar": 18,
+					"type": "anhydride",
+					"properties":["Density: 1000 kg/m3", "Melting point: 0º C", "Boiling point: 100º C",
+						"Viscosity: 1 cP"]
+
 		},
 
 		{
@@ -12,7 +16,9 @@
 					"name": "Carbon dioxide",
 					"formula": "CO₂",
 					"small":["C", "O"],
-					"molar": 44
+					"molar": 44,
+					"type": "oxide"
+
 			
 		},
 		{
@@ -20,7 +26,8 @@
 					"name": "Lithium oxide",
 					"formula": "Li₂O",
 					"small":["Li", "O"],
-					"molar": 29.8
+					"molar": 29.8,
+					"type": "oxide"
 			
 		},
 		{
@@ -28,7 +35,8 @@
 					"name": "Sodium oxide",
 					"formula": "Na₂O",
 					"small":["Na", "O"],
-					"molar": 62
+					"molar": 62,
+					"type": "oxide"
 			
 		},
 		{
@@ -36,7 +44,8 @@
 					"name": "Potassium oxide",
 					"formula": "K₂O",
 					"small":["K", "O"],
-					"molar": 94.2
+					"molar": 94.2,
+					"type": "oxide"
 			
 		},
 		{
@@ -44,7 +53,8 @@
 					"name": "Rubidium oxide",
 					"formula": "Rb₂O",
 					"small":["Rb", "O"],
-					"molar": 187
+					"molar": 187,
+					"type": "oxide"
 			
 		},
 		{
@@ -52,7 +62,8 @@
 					"name": "Caesium oxide",
 					"formula": "Cs₂O",
 					"small":["Cs", "O"],
-					"molar": 281.8
+					"molar": 281.8,
+					"type": "oxide"
 			
 		},
 		{
@@ -60,9 +71,48 @@
 					"name": "Beryllium oxide",
 					"formula": "BeO",
 					"small":["Be", "O"],
-					"molar": 25
+					"molar": 25,
+					"type": "oxide"
+			
+		},
+		{
+					"img": "img/nif2.png",
+					"name": "Nickel fluoride",
+					"formula": "NiF₂",
+					"small":["Ni", "F"],
+					"molar": 96.7,
+					"type": "salt"
+			
+		},
+		{
+					"img": "img/nacl.png",
+					"name": "Sodium chloride",
+					"formula": "NaCl",
+					"small":["Na", "Cl"],
+					"molar": 58.4,
+					"type": "salt"
+			
+		},
+		{
+					"img": "img/hf.png",
+					"name": "Hydrofluoric acid",
+					"formula": "HF",
+					"small":["H", "F"],
+					"molar": 20,
+					"type": "acid"
+			
+		},
+		{
+					"img": "img/hcl.png",
+					"name": "Hydrochloric acid",
+					"formula": "HCl",
+					"small":["H", "Cl"],
+					"molar": 36.5,
+					"type": "acid"
 			
 		}
+
+
 
 
 ]

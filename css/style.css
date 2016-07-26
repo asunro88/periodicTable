@@ -3,16 +3,9 @@ nav ul a, nav .brand-logo {
   color: #444;
 }
 
-@media screen and (max-width : 620px) {
-	.img-res {
-		max-height: 50px;
-	}
-}
-
 .button-collapse {
   color: #26a69a;
 }
-
 
 
 .icon-vec {
@@ -29,11 +22,6 @@ p {
 }
 
 
-@media only screen and (max-width : 600px) {
-  #index-banner .section {
-    top: 0;
-  }
-}
 
 footer.page-footer {
   margin: 0;
@@ -43,10 +31,7 @@ footer.page-footer {
   color: black;
 }
 
-.content-product {
-  height: 630px;
-  margin-bottom: 50px;
-}
+
 
 .made:hover {
   text-decoration: underline;
@@ -55,11 +40,6 @@ footer.page-footer {
 .slider {
   width: 100%;
 }
-
-/*.text-slider {
-  color: #333;
-  margin-top: 45px;
-}*/
 
 .vector {
   transition: all .7s ease-in-out;
@@ -77,16 +57,54 @@ footer.page-footer {
   margin-top: 70px;
 }
 
-.card-edit {
-  width: 31%;
-  height: 41%;
+.card{
+  width: 50px;
   display: inline-block;
-  margin: 2% 1% 5% 1%;
+
 }
 
-.img-card {
-  padding: 30px;
+.element-card{
+  width: 20%;
+  height: 30%;
 }
+
+
+.card-edit {
+    width: 31%;
+    height: 41%;
+    display: inline-block;
+    margin: 2% 1% 5% 1%;
+    vertical-align: top;
+    height: 350px;
+}
+
+
+.card .card-image {
+    position: absolute;
+    bottom: 0;
+}
+
+.card .card-content {
+    padding: 20px;
+    border-radius: 0 0 2px 2px;
+    vertical-align: top;
+}
+
+.card .card-image img {
+    display: block;
+    border-radius: 2px 2px 0 0;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 80%;
+}
+
+.img-card{
+  width: 30%;
+}
+
 
 #element {
   text-align: center;

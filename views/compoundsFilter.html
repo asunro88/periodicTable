@@ -1,0 +1,23 @@
+<section class="container" ng-controller="smallController">
+
+  <div class="row">
+    <div ng-repeat="compound in compounds | filter: myFilter" class="card-edit card">
+
+      <div class="card-content">
+        <span class="card-title activator grey-text text-darken-4">{{compound.name}}<i class="material-icons right">more_vert</i></span>
+        <div><a href="#/compound/name/{{compound.name}}">View all properties</a></div>
+      </div>
+      <div class="card-image waves-effect waves-block waves-light">
+        <img class="img-card activator" ng-src="{{compound.img}}" alt="{{compound.img}}" >
+        <span ng-src="{{compound.name}}" alt="{{compound.name}}">{{compound.formula}}</span>
+      </div>
+
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4">{{compound.formula}}<i class="material-icons right">close</i></span>
+        
+        
+      </div>
+    </div>
+  </div>
+
+</section>

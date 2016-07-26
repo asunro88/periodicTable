@@ -7,6 +7,8 @@
 					"number": 1,
 					"small": "H",
 					"molar": 1.00794,
+					"img": "img/hidrogeno.png",
+					"oxidation":[-1,1],
 					"electrons": [
 						1
 					]
@@ -18,6 +20,8 @@
 					"number": 2,
 					"small": "He",
 					"molar": 4.002602,
+					"img": "img/helio.png",
+					"oxidation":[0],
 					"electrons": [
 						2
 					]
@@ -33,6 +37,8 @@
 					"number": 3,
 					"small": "Li",
 					"molar": 6.941,
+					"img": "img/litio.jpg",
+					"oxidation":[1],
 					"electrons": [
 						2,
 						1
@@ -46,6 +52,8 @@
 					"number": 4,
 					"small": "Be",
 					"molar": 9.012182,
+					"img": "img/berilio.jpg",
+					"oxidation":[2],
 					"electrons": [
 						2,
 						2
@@ -58,6 +66,8 @@
 					"number": 5,
 					"small": "B",
 					"molar": 10.811,
+					"img": "img/boro.jpg",
+					"oxidation":[-3,3],
 					"electrons": [
 						2,
 						3
@@ -70,6 +80,8 @@
 					"number": 6,
 					"small": "C",
 					"molar": 12.0107,
+					"img": "img/carbon.png",
+					"oxidation":[-2,2,4],
 					"electrons": [
 						2,
 						4
@@ -82,6 +94,8 @@
 					"number": 7,
 					"small": "N",
 					"molar": 14.0067,
+					"img": "img/nitrogeno.jpg",
+					"oxidation":[-3,2,3,4,5],
 					"electrons": [
 						2,
 						5
@@ -94,6 +108,8 @@
 					"number": 8,
 					"small": "O",
 					"molar": 15.9994,
+					"img": "img/oxigeno.jpg",
+					"oxidation":[-2,-1,1],
 					"electrons": [
 						2,
 						6
@@ -106,6 +122,8 @@
 					"number": 9,
 					"small": "F",
 					"molar": 18.998404,
+					"img": "img/fluor.jpg",
+					"oxidation":[-1],
 					"electrons": [
 						2,
 						7
@@ -118,6 +136,8 @@
 					"number": 10,
 					"small": "Ne",
 					"molar": 20.1797,
+					"img": "img/neon.jpg",
+					"oxidation":[0],
 					"electrons": [
 						2,
 						8
@@ -132,6 +152,8 @@
 					"number": 11,
 					"small": "Na",
 					"molar": 22.989769,
+					"img": "img/sodio.jpg",
+					"oxidation":[1],
 					"electrons": [
 						2,
 						8,
@@ -145,6 +167,8 @@
 					"number": 12,
 					"small": "Mg",
 					"molar": 24.305,
+					"img": "img/magnesio.png",
+					"oxidation":[2],
 					"electrons": [
 						2,
 						8,
@@ -158,6 +182,8 @@
 					"number": 13,
 					"small": "Al",
 					"molar": 26.981539,
+					"img": "img/aluminio.jpg",
+					"oxidation":[3],
 					"electrons": [
 						2,
 						8,
@@ -171,6 +197,8 @@
 					"number": 14,
 					"small": "Si",
 					"molar": 28.0855,
+					"img": "img/silicio.png",
+					"oxidation":[-4,2,4],
 					"electrons": [
 						2,
 						8,
@@ -184,6 +212,8 @@
 					"number": 15,
 					"small": "P",
 					"molar": 30.973763,
+					"img": "img/fosforo.jpg",
+					"oxidation":[-3,3,5],
 					"electrons": [
 						2,
 						8,
@@ -197,6 +227,8 @@
 					"number": 16,
 					"small": "S",
 					"molar": 32.065,
+					"img": "img/azufre.jpg",
+					"oxidation":[-2,2,4,6],
 					"electrons": [
 						2,
 						8,
@@ -210,6 +242,8 @@
 					"number": 17,
 					"small": "Cl",
 					"molar": 35.453,
+					"img": "img/cloro.jpg",
+					"oxidation":[-1,1,3,5,7],
 					"electrons": [
 						2,
 						8,
@@ -223,6 +257,8 @@
 					"number": 18,
 					"small": "Ar",
 					"molar": 39.948,
+					"img": "img/argon.jpg",
+					"oxidation":[0],
 					"electrons": [
 						2,
 						8,
@@ -238,6 +274,8 @@
 					"number": 19,
 					"small": "K",
 					"molar": 39.0983,
+					"img": "img/potasion.jpg",
+					"oxidation":[1],
 					"electrons": [
 						2,
 						8,
@@ -252,6 +290,8 @@
 					"number": 20,
 					"small": "Ca",
 					"molar": 40.078,
+					"img": "img/calcio.png",
+					"oxidation":[2],
 					"electrons": [
 						2,
 						8,
@@ -266,6 +306,8 @@
 					"number": 21,
 					"small": "Sc",
 					"molar": 44.955914,
+					"img": "img/escandio.jpg",
+					"oxidation":[3],
 					"electrons": [
 						2,
 						8,
@@ -280,6 +322,8 @@
 					"number": 22,
 					"small": "Ti",
 					"molar": 47.867,
+					"img": "img/titanio.png",
+					"oxidation":[2,3,4],
 					"electrons": [
 						2,
 						8,
@@ -294,6 +338,8 @@
 					"number": 23,
 					"small": "V",
 					"molar": 50.9415,
+					"img": "img/vanadio.png",
+					"oxidation":[2,3,4,5],
 					"electrons": [
 						2,
 						8,
@@ -308,6 +354,8 @@
 					"number": 24,
 					"small": "Cr",
 					"molar": 51.9961,
+					"img": "img/cromo.png",
+					"oxidation":[2,3,6],
 					"electrons": [
 						2,
 						8,
@@ -322,6 +370,8 @@
 					"number": 25,
 					"small": "Mn",
 					"molar": 54.938046,
+					"img": "img/manganeso.png",
+					"oxidation":[2,3,4,6,7],
 					"electrons": [
 						2,
 						8,
@@ -336,6 +386,8 @@
 					"number": 26,
 					"small": "Fe",
 					"molar": 55.845,
+					"img": "img/hierro.png",
+					"oxidation":[2,3],
 					"electrons": [
 						2,
 						8,
@@ -350,6 +402,8 @@
 					"number": 27,
 					"small": "Co",
 					"molar": 58.933193,
+					"img": "img/cobalto.jpg",
+					"oxidation":[2,3],
 					"electrons": [
 						2,
 						8,
@@ -364,6 +418,8 @@
 					"number": 28,
 					"small": "Ni",
 					"molar": 58.6934,
+					"img": "img/niquel.png",
+					"oxidation":[2,3],
 					"electrons": [
 						2,
 						8,
@@ -378,6 +434,8 @@
 					"number": 29,
 					"small": "Cu",
 					"molar": 63.546,
+					"img": "img/cobre.png",
+					"oxidation":[1,2],
 					"electrons": [
 						2,
 						8,
@@ -392,6 +450,8 @@
 					"number": 30,
 					"small": "Zn",
 					"molar": 65.38,
+					"img": "img/zinc.png",
+					"oxidation":[2],
 					"electrons": [
 						2,
 						8,
